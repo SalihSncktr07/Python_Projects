@@ -1,0 +1,3 @@
+What is MadLibs in Python?
+Python Mad Libs - beanz Magazine - beanz Magazine - Kids ...
+Recreate the classic game in this simple Python tutorial. What whimsical stories will you write? “MadLibs” is a game where you write a story with missing words, then ask friends or family members to fill in the blanks. Since they don't know what your story's about, the result is often wonderful and silly!
